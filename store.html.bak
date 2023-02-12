@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Techtok Store</title>
+</head>
+
+<body background="aw.png">
+<nav>
+      <center><a href="./index.html">Home</a></center>
+      <center><a href="./about.html">About</a></center>
+      <center><a href="./service.html">Service</a></center>
+      <center><a href="./contact.html">Contact</a></center>
+    </nav>
+<font color="cyan">
+<center><h1>Welcome to our store customers!</h1></center>
+<center><p>This is a webpage for our business pc accessories. Make yourself at home!</p></center>
+
+<center><h2>Products</h2></center>
+<center><p><i>keyboards</i> - best sellers</p></center>
+<center><p><i>mouse</i> - best sellers</p></center>
+<center><p><i>headsets</i> - best sellers</p></center>
+
+
+</body>
+</html>

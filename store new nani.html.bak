@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Techtok Store</title>
+</head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+<body background="aw.png">
+<nav>
+      <center><a href="./index.html">Home</a></center>
+      <center><a href="./about.html">About</a></center>
+      <center><a href="./service.html">Service</a></center>
+      <center><a href="./contact.html">Contact</a></center>
+    </nav>
+<font color="cyan">
+<center><h1>Welcome to our store customers!</h1></center>
+<center><p>This is a webpage for our business pc accessories. Make yourself at home!</p></center>
+
+<center><h2>Products</h2></center>
+
+<center><div class="row">
+  <div class="column">
+    <img src="cooler.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="keyboard.png" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="mousepad.png" alt="Mountains" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="headphones.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="speaker.png" alt="Snow" style="width:100%">
+  </div>
+    <img src="mouse.png" alt="Snow" style="width:100%">
+  <div class="column">
+  </div>
+</div></center>
+
+
+
+
+
+</body>
+</html>

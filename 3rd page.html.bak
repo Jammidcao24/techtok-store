@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Techtok Store</title>
+</head>
+
+<body background="aw.png">
+<nav>
+      <center><a href="./index.html">Home</a></center>
+      <center><a href="./about.html">About</a></center>
+      <center><a href="./service.html">Service</a></center>
+      <center><a href="./contact.html">Contact</a></center>
+    </nav>
+<font color="white">
+<center><h1 style="font-size:330%;">Techtok</h1></center>
+<center><p style="font-size:330%;"> Adding Care to your PC
+and giving Futures to your Tech. </p></center>
+
+<center><h2 style="font-size:330%;">Mission</h2></center>
+<center><p><i style="font-size:330%;">Our mission is to provide high-quality computer accessories as well as to introduce our customers to the latest cutting -edge technology .
+</p></center>
+
+<center><h3 style= "font-size:330%;">Vision</h3></center>
+<center><p><i style="font-size:330%;">We aim to be your go-to accessory store while maintaining our stellar reputation, affordability and authenticity.
+</p></center>
+
+</body>
+</html>

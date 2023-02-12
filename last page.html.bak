@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Techtok Store</title>
+</head>
+
+<body background="aw.png">
+<nav>
+      <center><a href="./index.html">Home</a></center>
+      <center><a href="./about.html">About</a></center>
+      <center><a href="./service.html">Service</a></center>
+      <center><a href="./contact.html">Contact</a></center>
+    </nav>
+<font color="white">
+<center><h1 style="font-size:330%;">Thank you for visiting our store customers!</h1></center>
+<center><h1 style="font-size:220%;"> Come and visit again next time </h1></center>
+
+<center><h2 style="font-size:250%;">Techtok</h2></center>
+<center><p><i style="font-size:250%;">Adding Care to your PC
+and giving Futures to your Tech.</p></center>
+
+<center><h2 style="font-size:150%;">Contact us!</h2></center>
+<center><p style="font-size:100%;">email: tech_tok@gmail.com</p></center>
+<center><p style="font-size:100%;">fb:tech_tok.com</p></center>
+</body>
+</html>
